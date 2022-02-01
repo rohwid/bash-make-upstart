@@ -1,0 +1,9 @@
+total 32
+-rw-rw-r-- 1 rohwid rohwid  0 Jul 10 09:59 coba1.c
+-rw-rw-r-- 1 rohwid rohwid  0 Jul 10 10:15 coba1.js
+-rw-rw-r-- 1 rohwid rohwid  0 Jul 10 09:59 coba1.o
+-rw-rw-r-- 1 rohwid rohwid  0 Jul 10 09:59 coba2.c
+-rw-rw-r-- 1 rohwid rohwid  0 Jul 10 10:15 coba2.js
+-rw-rw-r-- 1 rohwid rohwid  0 Jul 10 09:59 coba2.o
+-rw-rw-r-- 1 rohwid rohwid  0 Jul 10 10:15 ls-l.txt
+-rwxrwxr-x 1 rohwid rohwid 30 Jul  9 23:28 output2file.sh

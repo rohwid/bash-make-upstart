@@ -1,0 +1,1 @@
+"[ -n "$UPSTART_JOB" ] && initctl emit zoo1-server-running" >

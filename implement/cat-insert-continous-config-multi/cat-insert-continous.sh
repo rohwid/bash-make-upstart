@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cat >> ./grub <<EOL
+#GRUB_GFXMODE=640x480
+GRUB_GFXMODE=1920x1080x32
+GRUB_GFXPAYLOAD_LINUX=keep
+EOL
